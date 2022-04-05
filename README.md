@@ -8,20 +8,27 @@
 * aihub is the name of docker image which you will pull and which contians the execution environment. 
 * FInally v2 is the name of tag for current docker image. 
 * You can see from following figure how you can pull it using PowerShell.
+
 <img src="https://github.com/jamilahmadzai/AI4SEII/blob/main/images/pulldock.jpg" alt='pic1'/>
 
 ## Run docker image
 * After the pull is complete you will see the docker image in your docker/image section as you can in the following figure. 
+
+<img src="https://github.com/jamilahmadzai/AI4SEII/blob/main/images/dockrun.PNG" alt='pic1'/>
+
 * Simply open docker, go to images on the left side of docker there you will see the pulled image.
 * Once you have docker image locally in your docker then you simply have to run the image. 
-
 * Once you click on the run button shown in above figure a small screen will appear in docker as you can see from following figure. 
+
+<img src="https://github.com/jamilahmadzai/AI4SEII/blob/main/images/dockport.jpeg" alt='pic1'/>
 
 * As right now this server runs on local port so you have to assign port number as well as you have to specify the name of container. 
 * Once you have assigned both the port number and container name you can click on run button to start the image inside the container you hava assigned.
 * Once you click on ’run’ button the container will execute at port number which you have assigned in previous step. 
 * Go to containers section in your docker and you will see that the container is running like in following figure. 
-* 
+
+<img src="https://github.com/jamilahmadzai/AI4SEII/blob/main/images/dockcontainer.jpeg" alt='pic1'/>
+
 * On the right end of the name of container you will find certain buttons for running and stopping the container on the given server, deleting the container, opening the command line interface and a button for opening the given container in browser.
 
 ## Run the server
