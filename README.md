@@ -39,13 +39,21 @@
 * Once you are in the root of docker container now you can simply run jupyterHub by entering command ’jupyterhub’ inside the container. 
 * After that you will be able to see your server hase started running on the given server. You can see it from following figure.
 
+<img src="https://github.com/jamilahmadzai/AI4SEII/blob/main/images/dockcli.jpeg" alt='pic1'/>
+
 ## Create User
 * Now the server is ready and running. You can use this environment for your AI application development purposes. 
 * Open the server in browser and you will see jupyterhub screen for signup. 
 * Enter username and password. For admin you have to keep the username as admin and for other users you can give whatever name you want to give. 
 * Once you have signed up, you can then sign in with the credentials you have entered.
+
+<img src="https://github.com/jamilahmadzai/AI4SEII/blob/main/images/dockadmin2.jpeg" alt='pic1'/>
+
 * For creating other users once you enter your username and password for signing the request will be forwarded to admin and user will only be able to access the
 execution environment once the request is approved by admin.
+
+<img src="https://github.com/jamilahmadzai/AI4SEII/blob/main/images/authorize_user.PNG" alt='pic1'/>
+
 * Once admin has approved the user, now they have access to all the libraries, files and other features of the system. 
 * Now the user does not need to install libraries which are already installed and provided by this execution environment. 
 * User can access all the libraries and tools to create their own AI applications.
