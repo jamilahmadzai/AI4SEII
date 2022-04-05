@@ -8,6 +8,7 @@
 * aihub is the name of docker image which you will pull and which contians the execution environment. 
 * FInally v2 is the name of tag for current docker image. 
 * You can see from following figure how you can pull it using PowerShell.
+<img src="https://github.com/jamilahmadzai/AI4SEII/blob/main/images/pulldock.jpg" alt='pic1'/>
 
 ## Run docker image
 * After the pull is complete you will see the docker image in your docker/image section as you can in the following figure. 
